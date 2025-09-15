@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RSaadtrust7/RSaadtrust7/refs/heads/main/tl%20bn.png" alt="TRADINGLIONS Banner" width="100" height="250" >
+  <img src="https://raw.githubusercontent.com/RSaadtrust7/RSaadtrust7/refs/heads/main/github.png" alt="TRADINGLIONS Banner" width="400px" >
 </p>
 
 # 🦁 I'm Saadallah — Founder of TRADINGLIONS
