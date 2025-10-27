@@ -10,7 +10,7 @@
 
 ## 🎯 What I Do
 - 📊 **Quantitative Research** → Volatility modeling, backtesting, strategy design.  
-- 🤖 **Algo Development** → Python, MQL5, Pine Script (TradingView), Streamlit apps.  
+- 🤖 **Algo Development** → Python, MQL5, Streamlit apps.  
 - 📈 **FX Trading & Prop Firms** → Scalping, intraday, risk management frameworks.  
 - 🎓 **Education & Mentorship** → Helping traders build discipline and skill.  
 
@@ -28,17 +28,17 @@
 ---
 
 ## 🚀 Featured Projects
-- 📌 [**tradinglions-backtest-framework**](#) → Custom Python backtesting module.  
-- 📌 [**FX-volatility-modeling**](#) → GARCH & ML volatility forecasting.  
-- 📌 [**MQL5-Bot-EA**](#) → Automated FX scalping system.  
-- 📌 [**ICT-tools-python**](#) → Institutional concepts with quantitative validation.  
-
+- 📌 [**Garman_kohlhagen-fxoptions-pricing**](#) → Forex Options pricing.  
+- 📌 [**Black_Scholes-equi-pricing**](#) → Equities Options pricing.  
+- 📌 [**LSTM-backtesting**](#) → LSTM Integration for EURUSD backtesting trading strategies .  
+- 📌 [**ICT-Silverbullet-EA**](#) → MQL5 Bot for the ICT silver bullet strategy.  
+- 📌 [**Volatility-Breakout**](#) → MQL5 indicator for the volatility breakout strategy (Larry Wialliams).
 ---
 
 ## 🎓 Content & Learning
 - 🎥 Weekly breakdowns on **YouTube**: strategies, prop firm challenges, algo trading.  
 - 📰 Articles & insights on **LinkedIn**.  
-- 📢 Community signals and education via **Telegram**.  
+- 📢 Community signals, insights and education via **Telegram**.  
 
 ---
 
