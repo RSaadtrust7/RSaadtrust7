@@ -28,7 +28,8 @@
 ---
 
 ## 🚀 Featured Projects
-- 📌 [**Garman_kohlhagen-fxoptions-pricing**](#) → Forex Options pricing.  
+- 📌 [**Garman_kohlhagen-fxoptions-pricing**](#) → Forex Options pricing.
+- 📌 [**moroccan_portfolio_optimization**](#) → Morrocan stocks portfolio using the Efficient Frontier. 
 - 📌 [**Black_Scholes-equi-pricing**](#) → Equities Options pricing.  
 - 📌 [**LSTM-backtesting**](#) → LSTM Integration for EURUSD backtesting trading strategies .  
 - 📌 [**ICT-Silverbullet-EA**](#) → MQL5 Bot for the ICT silver bullet strategy.  
