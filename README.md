@@ -1,45 +1,38 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RSaadtrust7/RSaadtrust7/refs/heads/main/github.png" alt="TRADINGLIONS Banner" width="100%" >
+  <img src="https://raw.githubusercontent.com/RSaadtrust7/RSaadtrust7/refs/heads/main/github.png" alt="Dorado Technologies Banner" width="100%" >
 </p>
 
-# 🦁 I'm Saadallah — Founder of TRADINGLIONS
-> Quant Trader | Algo Developer | Financial Markets Enthusiast  
+# 🏆 I'm Saadallah Elbejjaj — Founder of Dorado Technologies
+> Odoo ERP Partner | Python & Odoo Module Development | ERP Implementation for Construction, Manufacturing & Services
 
 ---
 
 ## 🎯 What I Do
-- 📊 **Quantitative Research** → Volatility modeling, backtesting, strategy design.  
-- 🤖 **Algo Development** → Python, MQL5, Streamlit apps.  
-- 📈 **FX Trading & Prop Firms** → Scalping, intraday, risk management frameworks.  
-- 🎓 **Education & Mentorship** → Helping traders build discipline and skill.  
+- 🧩 **Odoo ERP Implementation** → Custom module development, workflow design, business process mapping.
+- 🇲🇦 **Moroccan Localization** → ICE/RC/IF/TP/CNSS legal fields, Arabic RTL support, sector-specific compliance.
+- 🏗️ **Sector Specialization** → Construction, manufacturing, services — flagship build: **Topodoo** (topographic surveying ERP).
+- 🐳 **Infrastructure & Security** → Docker Compose deployments, PostgreSQL, nginx, hardened production environments.
+- ✅ **Official Odoo Partner** → Certified implementation partner delivering end-to-end ERP solutions.
 
 ---
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://tradinglions.io"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://doradotechnologies.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://linkedin.com/in/saadallahelbejjaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/tradinglions7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://youtube.com/@TRADINGLIONS7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/trading.lions"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://calendly.com/agentmasters/dorado-technologies"><img src="https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- 📌 [**Garman_kohlhagen-fxoptions-pricing**](#) → Forex Options pricing.
-- 📌 [**moroccan_portfolio_optimization**](#) → Morrocan stocks portfolio using the Efficient Frontier. 
-- 📌 [**Black_Scholes-equi-pricing**](#) → Equities Options pricing.  
-- 📌 [**LSTM-backtesting**](#) → LSTM Integration for EURUSD backtesting trading strategies .  
-- 📌 [**ICT-Silverbullet-EA**](#) → MQL5 Bot for the ICT silver bullet strategy.  
-- 📌 [**Volatility-Breakout**](#) → MQL5 indicator for the volatility breakout strategy (Larry Wialliams).
----
 
-## 🎓 Content & Learning
-- 🎥 Weekly breakdowns on **YouTube**: strategies, prop firm challenges, algo trading.  
-- 📰 Articles & insights on **LinkedIn**.  
-- 📢 Community signals, insights and education via **Telegram**.  
+**ERP & Business**
+- 📌 More Dorado Technologies / Odoo ERP projects coming soon.
+
+**Quant Trading Archive**
+- 📌 My previous projects in quant — coming soon.
 
 ---
 
