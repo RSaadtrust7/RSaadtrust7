@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RSaadtrust7/RSaadtrust7/refs/heads/main/github.png" alt="Dorado Technologies Banner" width="100%" >
+  <img src="https://raw.githubusercontent.com/RSaadtrust7/RSaadtrust7/refs/heads/main/github.png" alt="Dorado Technologies Banner" width="360" >
 </p>
 
 # 🏆 I'm Saadallah Elbejjaj — Founder of Dorado Technologies
